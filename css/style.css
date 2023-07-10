@@ -1,0 +1,266 @@
+body {
+  background-color: rgba(174, 219, 241, 0.444);
+  font-family: "Montserrat", sans-serif;
+}
+.top-content {
+  background-color: rgb(206, 226, 178);
+  margin: 10px auto 10px;
+  text-align: center;
+  height: 700px;
+}
+
+h1 {
+  margin-top: 60px;
+  margin-right: 300px;
+  font-family: "Bungee Shade", cursive;
+  font-size: 50px;
+  color: darkblue;
+}
+h2 {
+  margin-top: 20px;
+  margin-right: 690px;
+  font-family: "Rowdies", cursive;
+  font-size: 30px;
+  color: green;
+}
+h3 {
+  color: #080f6c;
+  font-size: 2em;
+}
+.work-rate {
+  background-color: #2b50b8;
+  text-align: left;
+  margin-right: 300px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: rgb(6, 5, 71);
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.ad {
+  background-color: crimson;
+}
+
+.p1 {
+  width: 60%;
+  margin: 30px 0 70px;
+  margin-left: 500px;
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  color: rgb(206, 15, 15);
+}
+.MARKETING {
+  height: 300px;
+  width: 360px;
+  float: left;
+  margin-top: 90px;
+  margin-left: 90px;
+}
+.link {
+  text-align: center;
+  margin: 40px auto 60px;
+  padding: 30px auto 40px;
+}
+a {
+  margin: 30px 20px 20px 30px;
+}
+.marketing-back {
+  height: 500px;
+  width: 100%;
+}
+.middle-content {
+  background-color: rgb(206, 226, 178);
+  text-align: center;
+}
+.m1 {
+  width: 70%;
+  margin: 0 auto 100px auto;
+  text-align: left;
+}
+.advertising {
+  height: 200px;
+  width: 500px;
+  margin-top: 40px;
+  margin-right: 90px;
+  float: left;
+}
+p {
+  width: 80%;
+  margin: 20px 0 30px;
+  margin-left: 300px;
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  color: rgb(2, 53, 81);
+  padding: 40px auto 60px;
+}
+.plan-content {
+  background-color: rgb(206, 226, 178);
+  text-align: center;
+  height: 500px;
+}
+.plan {
+  height: 200px;
+  width: 300px;
+  margin-top: 40px;
+  margin-right: 300px;
+  float: right;
+  padding: 30px auto 50px;
+}
+.PLAN2 {
+  background-color: #b82b82;
+  margin-left: 10%;
+}
+ul {
+  margin: 40px auto 60px;
+  padding: 30px 40px 40px 30px;
+  text-align: left;
+  font-size: 1.4em;
+  color: darkblue;
+}
+li {
+  margin-left: 300px;
+}
+ol {
+  margin-left: 150px;
+  padding: 30px 50px 40px 30px;
+  text-align: left;
+  font-size: 1.4em;
+  color: rgb(178, 76, 8);
+}
+.li-1 {
+  margin-left: 500px;
+}
+
+.digital-img {
+  height: 200px;
+  width: 300px;
+  margin-left: 200px;
+  padding: 80px 60px 60px 70px;
+  float: left;
+}
+.para {
+  width: 900px;
+  padding: 10px 500px 10px 10px;
+}
+.DIGITAL2 {
+  text-align: left;
+  margin-right: 500px;
+  background-color: rgb(44, 137, 137);
+}
+.digital-market {
+  background-color: rgb(206, 226, 178);
+}
+.social {
+  height: 200px;
+  width: 300px;
+  margin-left: 200px;
+  padding: 80px 60px 60px 70px;
+  float: left;
+}
+.PARA2 {
+  width: 900px;
+  padding: 10px 500px 10px 10px;
+}
+.Social1 {
+  text-align: left;
+  margin-right: 500px;
+  background-color: #b82b82;
+}
+.table-1 {
+  color: rgb(122, 5, 122);
+  margin-left: 400px;
+  font-size: 1.5em;
+  text-align: left;
+}
+.table-2 {
+  color: #14022f;
+  margin-left: 350px;
+  font-size: 1.2em;
+  text-align: left;
+}
+.our-work {
+  background-color: #080f6c;
+  text-align: center;
+  margin-left: 40%;
+}
+.table content {
+  margin: 60px auto 80px;
+  padding: auto;
+}
+.work-rate1 {
+  margin: 60px auto 80px;
+  padding: auto;
+}
+.bottom-contant {
+  padding: 60px 0 50px 0;
+  text-align: center;
+  background-color: rgb(4, 4, 46);
+}
+a:hover {
+  color: white;
+}
+.admition {
+  font-family: "Merriweather", serif;
+}
+.table1 {
+  padding: 150px;
+}
+.submit {
+  text-align: center;
+  padding: 50px 0 50px 0;
+}
+.span1 {
+  color: rgb(90, 8, 158);
+  background-color: #67c0d6;
+  margin-left: 500px;
+}
+.device {
+  text-align: center;
+  margin: 100px 0 150px 450px;
+}
+.device-2 {
+  background-color: #011d1b;
+}
+.immage {
+  height: 200px;
+  width: 200px;
+}
+.btn {
+  padding: 50px auto 70px;
+  background: #34d960;
+  background-image: -webkit-linear-gradient(top, #34d960, #2b50b8);
+  background-image: -moz-linear-gradient(top, #34d960, #2b50b8);
+  background-image: -ms-linear-gradient(top, #34d960, #2b50b8);
+  background-image: -o-linear-gradient(top, #34d960, #2b50b8);
+  background-image: linear-gradient(to bottom, #34d960, #2b50b8);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  text-shadow: 1px 1px 3px #c229c2;
+  -webkit-box-shadow: 0px 5px 5px #2cbda5;
+  -moz-box-shadow: 0px 5px 5px #2cbda5;
+  box-shadow: 0px 5px 5px #2cbda5;
+  font-family: "Rowdies", cursive;
+
+  color: #14022f;
+  font-size: 23px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3c9cfc;
+  background-image: -webkit-linear-gradient(top, #3c9cfc, #131dad);
+  background-image: -moz-linear-gradient(top, #3c9cfc, #131dad);
+  background-image: -ms-linear-gradient(top, #3c9cfc, #131dad);
+  background-image: -o-linear-gradient(top, #3c9cfc, #131dad);
+  background-image: linear-gradient(to bottom, #3c9cfc, #131dad);
+  text-decoration: none;
+}
